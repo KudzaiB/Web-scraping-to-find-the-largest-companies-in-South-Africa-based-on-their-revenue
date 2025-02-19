@@ -1,4 +1,5 @@
 **Summary**
+
 Web scraping makes it simple to retrieve huge datasets from webpages. In this project, I used web scraping techniques to extract data on the largest companies in South Africa based on revenue. 
 The data source was Wikipedia (2022), and the goal was to automate the collection and organisation of company revenue figures into a structured format.
 ![Source](https://github.com/user-attachments/assets/b57244fd-f2e9-4d08-b979-7653ea170f0c)
