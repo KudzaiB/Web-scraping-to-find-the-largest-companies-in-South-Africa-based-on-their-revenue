@@ -29,4 +29,5 @@ The final CSV highlights:
 🎯Profitability: Some companies, like Sasol, show significant losses, while others like MTN Group and Anglo American Platinum report healthy profits.
 
 **Conclusion**
+
 This dataset serves as a valuable resource for financial analysis, competitive benchmarking and industry trend analysis. This project demonstrates my proficiency in automating data extraction, processing large datasets and creating structured outputs that can support data driven decision making
