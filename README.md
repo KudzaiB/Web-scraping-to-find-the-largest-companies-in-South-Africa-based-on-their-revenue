@@ -23,7 +23,9 @@ The final CSV highlights:
 ![Companies csv screenshot](https://github.com/user-attachments/assets/6f4f84c7-d1fc-40cd-a7e4-f4e6466ff185)
 
 🎯Top companies by revenue: Eskom, Sasol, and MTN Group lead the list with significant revenues exceeding US$10 billion.
+
 🎯Industries: Diverse industries such as mining, telecommunications, and retail dominate the list, with mining companies like Anglo American Platinum and Sibanye Gold performing strongly.
+
 🎯Profitability: Some companies, like Sasol, show significant losses, while others like MTN Group and Anglo American Platinum report healthy profits.
 
 **Conclusion**
